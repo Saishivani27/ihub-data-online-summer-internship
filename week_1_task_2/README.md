@@ -4,6 +4,8 @@ Task 2 – Video Reconstruction from Frames
 
 source video: https://youtu.be/oJDzh2mVBms?si=uRFvnEfBFRbWWaYH
 
+output:https://drive.google.com/file/d/19sdCa5YUb3oUiPNYSe6hqEO92Rx8u4gG/view?usp=sharing
+
 Objective:
 
 Generate approximately 1800 frames from a 1-minute video and reconstruct the frames back into a video.
