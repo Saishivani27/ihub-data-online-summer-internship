@@ -6,13 +6,13 @@ source video:https://youtu.be/svM2HbOVixk?si=3XJ4YHQCkpo5oOnJ
 
 Dataset created using classes:
 
-1-person
+1-bicycle
 
 2-bike
 
 3-car
 
-4-bicycle
+4-person
 
 Objective:
 
