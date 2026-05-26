@@ -5,17 +5,26 @@ Objective
 
 Learn how to extract multiple image frames from a video using FFmpeg.
 
-Work Done
+Work Done:
+
 Downloaded a short YouTube video using yt-dlp.
+
 Extracted frames from the video using FFmpeg.
+
 Verified extracted images.
+
 Uploaded sample images and video links.
-Commands Used
+
+Commands Used:
+
 yt-dlp <youtube_video_url>
 
 ffmpeg -i input.mp4 frames/img_%04d.jpg
-Output
+
+Output:
+
 Multiple image frames extracted from the video stream.
+
 Learning Outcomes
 Understanding video decomposition
 Frame extraction techniques
