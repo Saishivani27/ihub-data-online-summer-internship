@@ -2,6 +2,16 @@ Week 5 – Custom Model Training
 
 output video : https://drive.google.com/file/d/1ZAFckIdrhU-MUsLywwClcx3hZ3fd2R6J/view?usp=sharing
 
+dataset/
+└── runs/
+    └── detect/
+        └── predict/
+            ├── output.mp4
+            ├── music.mp3
+            ├── img_001.jpg
+            ├── img_002.jpg
+            └── ...
+
 Task 1 – Annotation Completion
 
 Objective:
