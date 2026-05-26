@@ -1,4 +1,6 @@
-Week 2 – Object Detection using YOLOv26
+Week 2 – Object Detection using YOLOv26(image and video)
+
+source video:  https://youtu.be/ChxDEAN8EtY?si=n4-yxbk9zaCXD9c9
 
 Task 1 – Creating Python Virtual Environment
 
