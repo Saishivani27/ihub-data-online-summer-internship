@@ -32,5 +32,3 @@ yt-dlp <youtube_video_url>
 
 ffmpeg -i input.mp4 frames/img_%04d.jpg
 
-
-https://shotstack.io/learn/use-ffmpeg-to-convert-images-to-video/
