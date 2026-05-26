@@ -4,6 +4,16 @@ Task 2 – Dataset Annotation using Label Studio
 
 source video:https://youtu.be/svM2HbOVixk?si=3XJ4YHQCkpo5oOnJ
 
+Dataset created using classes:
+
+person
+
+bike
+
+car
+
+bicycle
+
 Objective:
 
 Create labeled datasets for custom training.
