@@ -2,6 +2,8 @@ Week 4 – Dataset Structure and Annotation
 
 Task 2 – Dataset Annotation using Label Studio
 
+source video:https://youtu.be/svM2HbOVixk?si=3XJ4YHQCkpo5oOnJ
+
 Objective:
 
 Create labeled datasets for custom training.
