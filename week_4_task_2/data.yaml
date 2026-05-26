@@ -6,7 +6,7 @@ val: images/val
 nc:4
 
 names:
-  0: person
+  0: bicycle
   1: bike
   2: car
-  3: bicycle
+  3: person
